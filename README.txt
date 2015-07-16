@@ -1,6 +1,6 @@
 README for CS 379C Project Code
 
-Authors: Aran Nayebi, Dylan Cable, Richard Wedeen
+Author: Aran Nayebi
 9 June 2015
 
 All our code has been written in Python.
