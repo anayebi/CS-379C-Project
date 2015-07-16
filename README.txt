@@ -3,8 +3,6 @@ README for CS 379C Project Code
 Author: Aran Nayebi
 9 June 2015
 
-All our code has been written in Python.
-
 Libraries needed:
 
 1. Numpy
